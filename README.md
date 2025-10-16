@@ -89,5 +89,6 @@ Sou apaixonado por tecnologia e estou focado em desenvolver minhas habilidades p
 
 ## 📊 Minhas Estatísticas no GitHub
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedrin2808&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrin2808&layout=compact&theme=radical) 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Pedrin2808&show_icons=true&theme=radical)  ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrin2808&layout=compact&theme=radical) 
+
 
